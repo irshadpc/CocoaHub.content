@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 083: “When you link a framework...”",
+    "description" : "John Sundell and Gui Rambo talk about the recent Facebook SDK crashing incident, third party SDKs, the rumored AirPods Studio headphones, and more.",
+    "url" : "https://9to5mac.com/2020/05/13/stacktrace-podcast-083-when-you-link-a-framework/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
