@@ -1,0 +1,17 @@
+{
+    "edition": 49,
+    "title": "Propagating user-facing errors in Swift",
+    "url": "https://www.swiftbysundell.com/articles/propagating-user-facing-errors-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui",
+        "architecture"
+    ]
+}

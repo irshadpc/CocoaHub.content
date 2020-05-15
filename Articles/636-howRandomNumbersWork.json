@@ -1,0 +1,16 @@
+{
+    "edition": 49,
+    "title": "How Random Numbers Work In Swift",
+    "url": "https://swiftrocks.com/how-random-numbers-work-in-swift",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

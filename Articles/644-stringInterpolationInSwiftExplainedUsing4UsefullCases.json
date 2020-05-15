@@ -1,0 +1,16 @@
+{
+    "edition": 49,
+    "title": "String Interpolation in Swift explained using 4 useful cases",
+    "url": "https://www.avanderlee.com/swift/string-interpolation/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

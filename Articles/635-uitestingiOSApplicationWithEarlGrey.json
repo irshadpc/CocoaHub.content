@@ -1,0 +1,16 @@
+{
+    "edition": 49,
+    "title": "UI Testing iOS application with EarlGrey",
+    "url": "https://www.onswiftwings.com/posts/ui-tests-earlgrey/",
+    "author": {
+        "name": "Maksym Shcheglov",
+        "url": "https://twitter.com/sgl0v"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

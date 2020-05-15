@@ -1,0 +1,16 @@
+{
+    "edition": 49,
+    "title": "Nested Property Wrappers in Swift",
+    "url": "https://noahgilmore.com/blog/nesting-property-wrappers/",
+    "author": {
+        "name": "Noah Gilmore",
+        "url": "https://twitter.com/noahsark769"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
