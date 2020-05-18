@@ -1,0 +1,13 @@
+{
+
+    "title" : "watchOS 6.2.5 is now available",
+    "description" : "Apple also releases tvOS 13.4.5 GM, iPadOS 13.5 GM, iOS 13.5 GM and Xcode 11.5 GM.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
