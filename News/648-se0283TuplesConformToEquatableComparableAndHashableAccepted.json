@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0283: Tuples conform to Equatable, Comparable, and Hashable has been accepted",
+    "description" : "“The Core Team is convinced that this is a great incremental step forward.“",
+    "url" : "https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
