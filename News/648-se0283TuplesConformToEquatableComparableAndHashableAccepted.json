@@ -1,6 +1,6 @@
 {
-    "title" : "SE-0283: Tuples conform to Equatable, Comparable, and Hashable",
-    "description" : "“The Core Team is convinced that this is a great incremental step forward. Some excellent points on possible concern over future tech debt in the compiler and runtime were brought up, but the Core Team believes that it is manageable and that this proposal helps push Swift forward in a positive direction.“",
+    "title" : "SE-0283: Tuples conform to Equatable, Comparable, and Hashable has been accepted",
+    "description" : "“The Core Team is convinced that this is a great incremental step forward.“",
     "url" : "https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658",
     "curator" : {
         "name" : "Irshad PC",
