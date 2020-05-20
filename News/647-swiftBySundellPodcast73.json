@@ -1,0 +1,13 @@
+{
+    "title" : "Swift by Sundell Podcast 73: “Truly a general-purpose language“",
+    "description" : "Listen to John Sundell and his special guest, Kyle Lee, also known as Kilo Loco, talk about behind the scenes of Publish, learning from open source, getting started with Swift-based web development, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/73",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
+
