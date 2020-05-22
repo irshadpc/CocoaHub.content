@@ -1,0 +1,16 @@
+{
+    "edition": 50,
+    "title": "VPN, Part 1: VPN Profiles",
+    "url": "https://kean.github.io/post/vpn-configuration-manager",
+    "author": {
+        "name": "Alexander Grebenyuk",
+        "url": "https://twitter.com/a_grebenyuk"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}

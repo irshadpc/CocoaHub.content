@@ -1,0 +1,16 @@
+{
+    "edition": 50,
+    "title": "Expressible literals in Swift explained by 3 useful examples",
+    "url": "https://www.avanderlee.com/swift/expressible-literals/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

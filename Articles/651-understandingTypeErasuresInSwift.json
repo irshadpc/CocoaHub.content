@@ -1,0 +1,16 @@
+{
+    "edition": 50,
+    "title": "Understanding type erasure in Swift",
+    "url": "https://www.donnywals.com/understanding-type-erasure-in-swift/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

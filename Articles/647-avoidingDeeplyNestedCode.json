@@ -1,0 +1,16 @@
+{
+    "edition": 50,
+    "title": "Avoiding deeply nested Swift code",
+    "url": "https://swiftbysundell.com/articles/avoiding-deeply-nested-swift-code/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
