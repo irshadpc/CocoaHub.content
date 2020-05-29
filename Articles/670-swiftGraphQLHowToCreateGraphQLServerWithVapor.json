@@ -1,0 +1,16 @@
+{
+    "edition": 51,
+    "title": "Swift ❤️ GraphQL: How to create a GraphQL server with Vapor and an iOS app as a client",
+    "url": "https://diamantidis.github.io/2020/05/24/swift-loves-graphql-server-with-vapor-and-ios-app-client",
+    "author": {
+        "name": "Ioannis Diamantidis",
+        "url": "https://twitter.com/diamantidis_io"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "server"
+    ]
+}

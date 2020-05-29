@@ -1,0 +1,16 @@
+{
+    "edition": 51,
+    "title": "Quickly replacing singletons with functions",
+    "url": "https://www.swiftbysundell.com/tips/quickly-replacing-singletons-with-functions/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

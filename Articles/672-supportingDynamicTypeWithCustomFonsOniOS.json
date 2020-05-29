@@ -1,0 +1,16 @@
+{
+    "edition": 51,
+    "title": "Supporting Dynamic Type with Custom Fonts on iOS",
+    "url": "https://blog.timroesner.com/supporting-dynamic-type",
+    "author": {
+        "name": "Tim Roesner",
+        "url": "https://twitter.com/timroesner"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "accessibility"
+    ]
+}
