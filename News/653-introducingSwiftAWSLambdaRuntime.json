@@ -1,0 +1,12 @@
+{
+    "title" : "Introducing Swift AWS Lambda Runtime",
+    "description" : "“Distributed as a Swift package, the Swift AWS Lambda Runtime is designed to help Swift developers build serverless functions for the Amazon Web Services Lambda platform.“",
+    "url" : "https://swift.org/blog/aws-lambda-runtime/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
