@@ -1,0 +1,12 @@
+{
+    "title": "iOS 13.5.1 is now available",
+    "description": "Apple also released iPadOS 13.5.1, watchOS 6.2.6 and macOS Catalina 10.15.5",
+    "url": "https://developer.apple.com/news/releases/",
+    "curator": {
+        "name": "Benji Mandel",
+        "url": "https://github.com/benjimandel"
+    },
+    "tags": [
+        "apple"
+    ]
+}
