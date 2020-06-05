@@ -1,0 +1,17 @@
+{
+    "edition": 52,
+    "title": "Core Data Performance: 6 tips you should know",
+    "url": "https://www.avanderlee.com/swift/core-data-performance/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage",
+        "tipsAndTricks"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 52,
+    "title": "Designing reusable Swift libraries",
+    "url": "https://www.swiftbysundell.com/articles/designing-reusable-swift-libraries/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

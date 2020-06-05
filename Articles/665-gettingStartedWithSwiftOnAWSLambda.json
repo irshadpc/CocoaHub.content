@@ -1,0 +1,16 @@
+{
+    "edition": 52,
+    "title": "Getting started with Swift on AWS Lambda",
+    "url": "https://fabianfett.de/getting-started-with-swift-aws-lambda-runtime",
+    "author": {
+        "name": "Fabian Fett",
+        "url": "https://twitter.com/fabianfett"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "server"
+    ]
+}
