@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 74: “Let’s build a camera app“",
+    "description" : "Listen to John Sundell and the entire team behind the award-winning apps Halide and Spectre, talk about how they work between design and development, Computational Photography, Augmented Reality and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/74",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
