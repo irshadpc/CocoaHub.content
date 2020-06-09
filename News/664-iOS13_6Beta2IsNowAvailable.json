@@ -1,0 +1,12 @@
+{
+    "title" : "Xcode 11.6 beta is now available",
+    "description" : "Apple also releases the second developer beta for iOS 13.6, iPadOS 13.6, tvOS 13.4.8 and macOS Catalina 10.15.6",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
