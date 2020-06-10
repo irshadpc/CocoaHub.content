@@ -1,0 +1,12 @@
+{
+    "title" : "watchOS 6.2.8 beta 2 is now available",
+    "description" : "Apple also updates TestFlight and you can now submit apps built with Xcode 11.6 beta using the SDK for iOS 13.6 beta 2, iPadOS 13.6 beta 2, tvOS 13.4.8 beta 2, and watchOS 6.2.8 beta 2 for internal and external testing.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
