@@ -1,0 +1,16 @@
+{
+    "edition": 53,
+    "title": "Adding support for versioning and migration to your Codable models",
+    "url": "http://merowing.info/2020/06/adding-support-for-versioning-and-migration-to-your-codable-models./",
+    "author": {
+        "name": "Krzysztof Zabłocki",
+        "url": "https://twitter.com/merowing_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}

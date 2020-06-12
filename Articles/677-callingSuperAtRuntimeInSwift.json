@@ -1,0 +1,16 @@
+{
+    "edition": 53,
+    "title": "Calling Super at Runtime in Swift",
+    "url": "https://steipete.wtf/posts/calling-super-at-runtime/",
+    "author": {
+        "name": "Peter Steinberger",
+        "url": "https://twitter.com/steipete"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

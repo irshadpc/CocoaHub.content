@@ -1,0 +1,16 @@
+{
+    "edition": 53,
+    "title": "Architecting a Logging Service for iOS Apps",
+    "url": "https://andreaslydemann.com/architecting-a-logging-service-for-ios-apps/",
+    "author": {
+        "name": "Andreas Lüdemann",
+        "url": "https://twitter.com/andreaslydemann"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture"
+    ]
+}
