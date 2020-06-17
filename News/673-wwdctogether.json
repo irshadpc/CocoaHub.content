@@ -1,0 +1,12 @@
+{
+    "title" : "Watch WWDC20 with your friends and the community",
+    "description" : "Khoa Pham has just released WWDC Together, a website where you can watch upcoming and previous sessions with a dedicate chatroom for each.",
+    "url" : "https://wwdctogether.com",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
