@@ -1,0 +1,16 @@
+{
+    "edition": 54,
+    "title": "Easy way to detect a retain cycle in a view controller",
+    "url": "https://sarunw.com/posts/easy-way-to-detect-retain-cycle-in-view-controller/",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "debugging"
+    ]
+}

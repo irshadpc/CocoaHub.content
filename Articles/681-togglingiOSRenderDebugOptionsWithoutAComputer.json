@@ -1,0 +1,16 @@
+{
+    "edition": 54,
+    "title": "Toggling iOS Render Debug Options Without a Computer",
+    "url": "https://bryce.co/on-device-render-debugging/",
+    "author": {
+        "name": "Bryce Pauken",
+        "url": "https://twitter.com/brycepauken"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "debugging"
+    ]
+}
