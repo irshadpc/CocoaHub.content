@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 75: “The Swift package ecosystem“",
+    "description" : "Listen to John Sundell and his special guests, Dave Verwer and Sven A. Schmidt, talk about their newly launched Swift Package Index, dependency management, composing libraries, deploying server-side Swift in production, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/75",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
