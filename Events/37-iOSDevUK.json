@@ -7,7 +7,7 @@
     "country": "Aberystwyth",
     "city": "United Kingdom",
     "tags": ["tickets"],
-    "isActive": true,
+    "isActive": false,
     "coordinates": {
         "latitute": 52.416320,
         "longitude": -4.065424
