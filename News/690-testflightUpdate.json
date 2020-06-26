@@ -1,0 +1,12 @@
+{
+    "title" : "You can now submit apps built with Xcode 12 on TestFlight",
+    "description" : "You are now able to test with the latest SDKs with most features being already supported. The exceptions are: App clips, widgets and macOS Universal apps.",
+    "url" : "https://developer.apple.com/news/releases/?id=06232020a",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
