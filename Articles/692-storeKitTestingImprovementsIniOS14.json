@@ -1,0 +1,16 @@
+{
+    "edition": 55,
+    "title": "StoreKit Testing Improvements in iOS 14",
+    "url": "https://www.revenuecat.com/blog/storekit-testing-in-xcode",
+    "author": {
+        "name": "Jacob Eiting",
+        "url": "https://twitter.com/jeiting"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

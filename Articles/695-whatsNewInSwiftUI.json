@@ -1,0 +1,16 @@
+{
+    "edition": 55,
+    "title": "What’s new in SwiftUI for iOS 14",
+    "url": "https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14",
+    "author": {
+        "name": "Paul Hudson",
+        "url": "https://twitter.com/twostraws"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

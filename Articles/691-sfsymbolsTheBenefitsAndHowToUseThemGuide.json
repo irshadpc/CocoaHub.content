@@ -1,0 +1,17 @@
+{
+    "edition": 55,
+    "title": "SF Symbols: The benefits and how to use them guide",
+    "url": "https://www.avanderlee.com/swift/sf-symbols-guide/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "design",
+        "ui"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "edition": 55,
+    "title": "Add custom SwiftUI view to View Library with LibraryContentProvider",
+    "url": "https://sarunw.com/posts/add-custom-swiftui-view-to-view-library/",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui",
+        "tooling"
+    ]
+}
