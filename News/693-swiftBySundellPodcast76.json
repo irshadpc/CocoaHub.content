@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 76: “A huge year for SwiftUI“",
+    "description" : "Listen to John Sundell and his special guests, Josh Shaffer and Eliza Block, talk about what’s new in SwiftUI, how Xcode Previews work under the hood, the new home screen widget system, Apple’s internal process of adopting and improving SwiftUI, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/76",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
