@@ -1,0 +1,12 @@
+{
+    "title" : "WWDC Notes - the TL;DW for Apple's WWDC videos",
+    "description" : "A project by Federico Zanetello that can be used as a quick reminder of what was presented, as a reference, or even as a time-saver, since watching all WWDC sessions takes hundreds of hours.",
+    "url" : "https://www.wwdcnotes.com",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
