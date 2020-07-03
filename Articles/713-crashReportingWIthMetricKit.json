@@ -1,0 +1,16 @@
+{
+    "edition": 56,
+    "title": "Crash Reporting with MetricKit",
+    "url": "https://www.chimehq.com/blog/metrickit-crash-reporting",
+    "author": {
+        "name": "Matt Massicotte",
+        "url": "https://twitter.com/mattie"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

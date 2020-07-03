@@ -1,0 +1,17 @@
+{
+    "edition": 56,
+    "title": "Creating Debug Menus in Swift with UIContextMenuInteraction",
+    "url": "https://swiftrocks.com/creating-debug-menus-in-swift-with-uicontextmenuinteraction",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui",
+        "debugging"
+    ]
+}

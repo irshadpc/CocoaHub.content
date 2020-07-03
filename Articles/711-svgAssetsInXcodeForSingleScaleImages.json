@@ -1,0 +1,17 @@
+{
+    "edition": 56,
+    "title": "SVG Assets in Xcode for Single Scale Images",
+    "url": "https://www.avanderlee.com/xcode/svg-image-assets/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling",
+        "design"
+    ]
+}
