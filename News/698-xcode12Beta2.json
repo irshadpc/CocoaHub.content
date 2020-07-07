@@ -1,0 +1,12 @@
+{
+    "title" : "Xcode 12 beta 2 is now available",
+    "description" : "Apple also releases the second developer betas for macOS Big Sur, iOS 14, iPadOS 14, watchOS 7 and tvOS 14.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
