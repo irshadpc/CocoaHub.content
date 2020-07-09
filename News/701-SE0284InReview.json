@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0284: Allow Multiple Variadic Parameters in Functions, Subscripts, and Initializers",
+    "description" : "Owen Voorhees proposes allowing multiple variadic parameters in functions, subscript and initializer. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0284-allow-multiple-variadic-parameters-in-functions-subscripts-and-initializers/38225",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
