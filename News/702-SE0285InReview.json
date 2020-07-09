@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0285: Ease the transition to concise magic file strings",
+    "description" : "Brent Royal-Gordon proposes adopting SE-0274, which changed the behavior of #file, more gradually. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0285-ease-the-transition-to-concise-magic-file-strings/38234",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
