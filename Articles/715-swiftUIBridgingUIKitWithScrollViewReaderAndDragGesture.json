@@ -1,0 +1,16 @@
+{
+    "edition": 57,
+    "title": "SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture",
+    "url": "https://www.fivestars.blog/code/section-title-index-swiftui.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

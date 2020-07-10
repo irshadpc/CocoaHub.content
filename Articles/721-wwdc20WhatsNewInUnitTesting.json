@@ -1,0 +1,16 @@
+{
+    "edition": 57,
+    "title": "WWDC20: What’s New in Unit Testing",
+    "url": "https://qualitycoding.org/wwdc20-unit-testing/",
+    "author": {
+        "name": "Jon Reid",
+        "url": "https://twitter.com/qcoding"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}
