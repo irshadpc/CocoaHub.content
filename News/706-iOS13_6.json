@@ -1,0 +1,12 @@
+{
+    "title" : "iOS 13.6 is now available",
+    "description" : "Apple also releases iOS 12.4.8, tvOS 13.4.8, watchOS 6.2.8, iPadOS 13.6, macOS Catalina 10.15.6 and Xcode 11.6.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
