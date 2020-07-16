@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 77: “Adopting new system features“",
+    "description" : "Listen to John Sundell and his special guests, Jordan Morgan, talk about various strategies for adopting new system features and APIs, how to keep up with the rapid changes to iOS, macOS and Apple’s other platforms, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/77",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
