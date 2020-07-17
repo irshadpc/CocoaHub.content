@@ -1,0 +1,16 @@
+{
+    "edition": 58,
+    "title": "ValueTransformer in Core Data explained: Storing absolute URLs",
+    "url": "https://www.avanderlee.com/swift/valuetransformer-core-data/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}
