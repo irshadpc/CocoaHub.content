@@ -1,0 +1,17 @@
+{
+    "edition": 59,
+    "title": "Xcode 12 drops support for iOS 8 and how to fix deployment target warnings in CocoaPods",
+    "url": "https://www.jessesquires.com/blog/2020/07/20/xcode-12-drops-support-for-ios-8-fix-for-cocoapods/",
+    "author": {
+        "name": "Jesse Squires",
+        "url": "https://twitter.com/jesse_squires"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling",
+        "tipsAndTricks"
+    ]
+}

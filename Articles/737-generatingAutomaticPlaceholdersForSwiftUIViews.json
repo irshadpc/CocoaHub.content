@@ -1,0 +1,16 @@
+{
+    "edition": 59,
+    "title": "Generating automatic placeholders for SwiftUI views",
+    "url": "https://www.swiftbysundell.com/tips/swiftui-automatic-placeholders/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

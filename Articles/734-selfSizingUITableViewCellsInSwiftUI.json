@@ -1,0 +1,16 @@
+{
+    "edition": 59,
+    "title": "Self-Sizing UITableView Cells with SwiftUI",
+    "url": "https://noahgilmore.com/blog/swiftui-self-sizing-cells/",
+    "author": {
+        "name": "Noah Gilmore",
+        "url": "https://twitter.com/noahsark769"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}
