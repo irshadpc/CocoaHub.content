@@ -1,0 +1,12 @@
+{
+    "title" : "Apple open sources the Exposure Notification framework",
+    "description" : "“Consistent with our privacy principle of transparency, we are publishing reference documentation, detailed specifications, and source code for the ExposureNotification framework.”",
+    "url" : "https://developer.apple.com/exposure-notification/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
