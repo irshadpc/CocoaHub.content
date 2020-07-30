@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 094: “The great app idea incubator”",
+    "description" : "John Sundell and Gui Rambo talk about FaceID on the Mac, Swift version of async/away, SwiftUI, and more.",
+    "url" : "https://9to5mac.com/2020/07/29/stacktrace-podcast-094-the-great-app-idea-incubator/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
