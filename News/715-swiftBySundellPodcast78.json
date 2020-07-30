@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 78: “What’s new in Swift 5.3“",
+    "description" : "Listen to John Sundell and his special guest, JP Simard, talk about Swift 5.3 main new features and improvements, its evolution process, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/78",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
