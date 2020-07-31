@@ -1,0 +1,16 @@
+{
+    "edition": 60,
+    "title": "Toggle iCloud sync on/off for NSPersistentCloudKitContainer",
+    "url": "https://fluffy.es/toggle-icloud-sync-nspersistentcloudkitcontainer/",
+    "author": {
+        "name": "Axel Kee",
+        "url": "https://twitter.com/soulchildpls"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}

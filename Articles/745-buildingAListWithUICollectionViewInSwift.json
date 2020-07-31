@@ -1,0 +1,16 @@
+{
+    "edition": 60,
+    "title": "Building a List with UICollectionView in Swift",
+    "url": "https://swiftsenpai.com/development/uicollectionview-list-basic/",
+    "author": {
+        "name": "Lee Kah Seng",
+        "url": "https://twitter.com/Lee_Kah_Seng"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

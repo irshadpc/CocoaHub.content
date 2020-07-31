@@ -1,0 +1,17 @@
+{
+    "edition": 60,
+    "title": "Setting up a Core Data store for unit tests",
+    "url": "https://www.donnywals.com/setting-up-a-core-data-store-for-unit-tests/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "storage",
+        "testing"
+    ]
+}
