@@ -1,0 +1,16 @@
+{
+    "edition": 61,
+    "title": "Atomic properties and Thread-safe data structure in Swift",
+    "url": "https://benoitpasquier.com/atomic-properties-thread-safe-data-structure-swift/",
+    "author": {
+        "name": "Benoit Pasquier",
+        "url": "https://twitter.com/BenoitPasquier_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

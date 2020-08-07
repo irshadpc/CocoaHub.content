@@ -1,0 +1,16 @@
+{
+    "edition": 61,
+    "title": "Swift types with @AppStorage and @SceneStorage",
+    "url": "https://www.fivestars.blog/swiftui/app-scene-storage.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "language"
+    ]
+}

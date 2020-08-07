@@ -1,0 +1,16 @@
+{
+    "edition": 61,
+    "title": "Using Codable with Core Data and NSManagedObject",
+    "url": "https://www.donnywals.com/using-codable-with-core-data-and-nsmanagedobject/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "storage"
+    ]
+}

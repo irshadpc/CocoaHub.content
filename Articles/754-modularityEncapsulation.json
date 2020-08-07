@@ -1,0 +1,16 @@
+{
+    "edition": 61,
+    "title": "Modularity. Encapsulation",
+    "url": "https://dmtopolog.com/modularity-2-encapsulation/",
+    "author": {
+        "name": "Dmitrii Ivanov",
+        "url": "https://twitter.com/dmtopolog"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

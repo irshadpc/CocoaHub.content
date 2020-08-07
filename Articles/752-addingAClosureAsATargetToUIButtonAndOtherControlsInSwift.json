@@ -1,0 +1,16 @@
+{
+    "edition": 61,
+    "title": "Adding a closure as a target to UIButton and other controls in Swift",
+    "url": "https://www.avanderlee.com/swift/uibutton-uicontrol-closure-target/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}
