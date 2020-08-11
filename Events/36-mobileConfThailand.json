@@ -7,7 +7,7 @@
     "country": "Bangkok",
     "city": "Thailand",
     "tags": ["tickets"],
-    "isActive": true,
+    "isActive": false,
     "coordinates": {
         "latitute": 13.733673,
         "longitude": 100.565819
