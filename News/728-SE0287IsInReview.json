@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0287: Extend implicit member syntax to cover chains of member references",
+    "description" : "Frederick Kellison-Linn suggests the expansion of implicit member syntax to more complex expressions than just a single static member or function. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0287-extend-implicit-member-syntax-to-cover-chains-of-member-references/39398",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
