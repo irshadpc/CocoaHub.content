@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 096: “The Pandora’s Box of software”",
+    "description" : "John Sundell and Gui Rambo talk about combining SwiftUI and other rendering technologies, the recent App Store controversy with Microsoft's xCloud, custom Swift keywords, and more.",
+    "url" : "https://9to5mac.com/2020/08/12/stacktrace-podcast-096-the-pandoras-box-of-software/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
