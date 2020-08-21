@@ -1,0 +1,16 @@
+{
+    "edition": 63,
+    "title": "Understanding Swift’s OptionSet",
+    "url": "https://www.donnywals.com/understanding-swifts-optionset/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "tags": [
+        "language"
+    ]
+}

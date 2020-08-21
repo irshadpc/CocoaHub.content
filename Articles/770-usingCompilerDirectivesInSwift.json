@@ -1,0 +1,16 @@
+{
+    "edition": 63,
+    "title": "Using compiler directives in Swift",
+    "url": "https://www.swiftbysundell.com/articles/using-compiler-directives-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 63,
+    "title": "Flexible layouts in SwiftUI",
+    "url": "https://fivestars.blog/swiftui/flexible-swiftui.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "ui"
+    ]
+}
