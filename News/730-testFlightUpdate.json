@@ -1,0 +1,12 @@
+{
+    "title" : "TestFlight Update",
+    "description" : "Apart from being able to submit apps built with the latest Xcode beta, you can now also submit App Clips.",
+    "url" : "https://developer.apple.com/news/releases/?id=08182020f",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
