@@ -1,0 +1,16 @@
+{
+    "edition": 62,
+    "title": "Creating a shared unit test utils library with Xcode",
+    "url": "https://noahgilmore.com/blog/xcode-shared-test-target/",
+    "author": {
+        "name": "Noah Gilmore",
+        "url": "https://twitter.com/noahsark769"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

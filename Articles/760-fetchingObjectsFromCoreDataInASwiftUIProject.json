@@ -1,0 +1,16 @@
+{
+    "edition": 62,
+    "title": "Fetching objects from Core Data in a SwiftUI project",
+    "url": "https://www.donnywals.com/fetching-objects-from-core-data-in-a-swiftui-project/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "tags": [
+        "storage"
+    ]
+}

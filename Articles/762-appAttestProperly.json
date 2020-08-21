@@ -1,0 +1,16 @@
+{
+    "edition": 62,
+    "title": "App Attest: (Properly!) Protecting iOS apps from Jailbreak Tweaks in iOS 14",
+    "url": "https://swiftrocks.com/app-attest-apple-protect-ios-jailbreak",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "security"
+    ]
+}
