@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 80: “Lists and loops“",
+    "description" : "Listen to John Sundell and his special guest, Nick Lockwood, talk about data structures and algorithms, what some of the pros and cons of writing high-performance code in Swift are, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/80",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
