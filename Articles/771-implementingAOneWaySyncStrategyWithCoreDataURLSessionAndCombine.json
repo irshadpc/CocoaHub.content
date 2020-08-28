@@ -1,0 +1,16 @@
+{
+    "edition": 64,
+    "title": "Implementing a one-way sync strategy with Core Data, URLSession and Combine",
+    "url": "https://www.donnywals.com/implementing-a-one-way-sync-strategy-with-core-data-urlsession-and-combine/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "storage"
+    ]
+}

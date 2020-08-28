@@ -1,0 +1,17 @@
+{
+    "edition": 64,
+    "title": "Building SwiftUI debugging utilities",
+    "url": "https://www.swiftbysundell.com/articles/building-swiftui-debugging-utilities/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "debugging",
+        "ui"
+    ]
+}

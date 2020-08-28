@@ -1,0 +1,17 @@
+{
+    "edition": 64,
+    "title": "Abusing iOS’ Screenshot Cropping Mechanism",
+    "url": "https://bryce.co/screenshot-cropping/",
+    "author": {
+        "name": "Bryce Pauken",
+        "url": "https://twitter.com/brycepauken"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui",
+        "other"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 64,
+    "title": "Logging in Swift",
+    "url": "https://steipete.com/posts/logging-in-swift/",
+    "author": {
+        "name": "Peter Steinberger",
+        "url": "https://twitter.com/steipete"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

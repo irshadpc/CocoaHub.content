@@ -1,0 +1,16 @@
+{
+    "edition": 64,
+    "title": "Improving Observer Pattern APIs in Swift With Weak Collections",
+    "url": "https://swiftrocks.com/improving-observer-pattern-apis-in-swift-with-weak-collections",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
