@@ -1,0 +1,16 @@
+{
+    "edition": 65,
+    "title": "Dispatching async or sync? The differences explained",
+    "url": "https://www.donnywals.com/dispatching-async-or-sync-the-differences-explained/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "tags": [
+        "language"
+    ]
+}

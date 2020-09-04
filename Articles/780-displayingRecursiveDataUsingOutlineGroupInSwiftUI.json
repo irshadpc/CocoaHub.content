@@ -1,0 +1,16 @@
+{
+    "edition": 65,
+    "title": "Displaying recursive data using OutlineGroup in SwiftUI",
+    "url": "https://swiftwithmajid.com/2020/09/02/displaying-recursive-data-using-outlinegroup-in-swiftui/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

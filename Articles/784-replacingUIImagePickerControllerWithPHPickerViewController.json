@@ -1,0 +1,16 @@
+{
+    "edition": 65,
+    "title": "Replacing UIImagePickerController with PHPickerViewController",
+    "url": "https://ohmyswift.com/blog/2020/08/29/replacing-uiimagepickercontroller-with-phpickerviewcontroller/",
+    "author": {
+        "name": "Rizwan Ahmed",
+        "url": "https://twitter.com/rizwanasifahmed"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}
