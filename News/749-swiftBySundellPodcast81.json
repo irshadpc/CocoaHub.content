@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 81: “How big iOS teams typically operate“",
+    "description" : "Listen to John Sundell and his special guest, Carola Nitz, talk about organizing remote conferences, the size of iOS development teams, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/81",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
