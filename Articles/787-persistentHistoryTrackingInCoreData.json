@@ -1,0 +1,16 @@
+{
+    "edition": 66,
+    "title": "Persistent History Tracking in Core Data",
+    "url": "https://www.avanderlee.com/swift/persistent-history-tracking-core-data/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}
