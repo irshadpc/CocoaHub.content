@@ -1,0 +1,16 @@
+{
+    "edition": 67,
+    "title": "Creating closure-based UI controls using UIAction",
+    "url": "https://www.swiftbysundell.com/tips/creating-closure-based-ui-controls-with-uiaction/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

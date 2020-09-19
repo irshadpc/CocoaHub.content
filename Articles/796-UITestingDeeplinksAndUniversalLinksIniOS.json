@@ -1,0 +1,16 @@
+{
+    "edition": 67,
+    "title": "UI Testing Deeplinks and Universal Links in iOS",
+    "url": "https://swiftrocks.com/ui-testing-deeplinks-and-universal-links-in-ios",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

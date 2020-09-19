@@ -1,0 +1,16 @@
+{
+    "edition": 67,
+    "title": "The State of SwiftUI",
+    "url": "https://steipete.com/posts/state-of-swiftui/",
+    "author": {
+        "name": "Peter Steinberger",
+        "url": "https://twitter.com/steipete"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

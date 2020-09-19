@@ -1,0 +1,16 @@
+{
+    "edition": 67,
+    "title": "Configuring error types when using flatMap in Combine",
+    "url": "https://www.donnywals.com/configuring-error-types-when-using-flatmap-in-combine/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}
