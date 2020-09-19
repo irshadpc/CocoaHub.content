@@ -1,0 +1,12 @@
+{
+    "title" : "Swift 5.3 is now officially released",
+    "description" : "“Swift 5.3 continues to focus on language refinements, the developer experience, and expanding the Swift ecosystem to enable more opportunities to write Swift.“",
+    "url" : "https://swift.org/blog/swift-5-3-released",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco",
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
