@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 82: “Translating designs into code“",
+    "description" : "Listen to John Sundell and his special guest, Jordan Singer, talk about various approaches of turning designs into fully implemented UIs, the story behind the Airport app, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/82",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
