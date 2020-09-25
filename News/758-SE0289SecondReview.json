@@ -1,0 +1,13 @@
+
+{
+    "title" : "SE-0289: Result Builders",
+    "description" : "Function Builders were renamed to Result Builders, along with other changes, and are now being reviewed for a second time. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0289-review-2-result-builders/40585",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
