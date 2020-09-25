@@ -1,0 +1,16 @@
+{
+    "edition": 68,
+    "title": "Understanding how DispatchQueue.sync can cause deadlocks",
+    "url": "https://www.donnywals.com/understanding-how-dispatchqueue-sync-can-cause-deadlocks/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "tags": [
+        "language"
+    ]
+}

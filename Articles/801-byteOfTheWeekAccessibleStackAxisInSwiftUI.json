@@ -1,0 +1,17 @@
+{
+    "edition": 68,
+    "title": "Byte of the Week: Accessible Stack Axis in SwiftUI",
+    "url": "https://alexisonline.dev/bytes/swiftui-flexible-stack/",
+    "author": {
+        "name": "Alexis Aubry",
+        "url": "https://twitter.com/_alexaubry"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "accessibility",
+        "ui"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 68,
+    "title": "Creating generic networking APIs in Swift",
+    "url": "https://www.swiftbysundell.com/articles/creating-generic-networking-apis-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

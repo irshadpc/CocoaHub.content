@@ -1,0 +1,16 @@
+{
+    "edition": 68,
+    "title": "BImplementing a Tracking System for iOS with CoreData",
+    "url": "https://freeletics.engineering/2020/06/22/ios_tracking_coredata.html",
+    "author": {
+        "name": "Freeletics Engineering",
+        "url": "https://twitter.com/FreeleticsEng"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}
