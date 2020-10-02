@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 103: “Widgets are data”",
+    "description" : "John Sundell and Gui Rambo talk about building and using iOS widgets, the community's adoption of SwiftUI, multiple ways of using view models, and more.",
+    "url" : "https://9to5mac.com/2020/09/30/stacktrace-podcast-103-widgets-are-data/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
