@@ -1,0 +1,12 @@
+{
+    "title": "Introducing Swift Atomics",
+    "description": "Apple announces Swift Atomics, “a new open source package that enables direct use of low-level atomic operations in Swift code“.",
+    "url": "https://swift.org/blog/swift-atomics/",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
