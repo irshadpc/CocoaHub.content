@@ -1,0 +1,17 @@
+{
+    "edition": 69,
+    "title": "Local unit tests with Xcode",
+    "url": "https://blog.krzyzanowskim.com/2020/09/28/local-unit-tests-with-xcode/",
+    "author": {
+        "name": "Marcin Krzyżanowski",
+        "url": "https://twitter.com/krzyzanowskim"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing",
+        "tooling"
+    ]
+}

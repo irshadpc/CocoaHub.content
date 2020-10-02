@@ -1,0 +1,16 @@
+{
+    "edition": 69,
+    "title": "How Swift API Availability Works Internally",
+    "url": "https://swiftrocks.com/how-availability-works-internally-in-swift",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

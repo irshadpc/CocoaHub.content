@@ -1,0 +1,17 @@
+{
+    "edition": 69,
+    "title": "Overriding UserDefaults for improved productivity",
+    "url": "https://www.avanderlee.com/xcode/overriding-userdefaults-launch-arguments/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling",
+        "workflow"
+    ]
+}
