@@ -1,0 +1,12 @@
+{
+    "title": "Announcing Swift Algorithms",
+    "description": "Apple announces Swift Algorithms, “a new open-source package of sequence and collection algorithms, along with their related types“.",
+    "url": "https://swift.org/blog/swift-algorithms/",
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
