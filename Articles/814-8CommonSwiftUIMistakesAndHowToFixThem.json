@@ -1,0 +1,16 @@
+{
+    "edition": 70,
+    "title": "8 Common SwiftUI Mistakes - and how to fix them",
+    "url": "https://www.hackingwithswift.com/articles/224/common-swiftui-mistakes-and-how-to-fix-them",
+    "author": {
+        "name": "Paul Hudson",
+        "url": "https://twitter.com/twostraws"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

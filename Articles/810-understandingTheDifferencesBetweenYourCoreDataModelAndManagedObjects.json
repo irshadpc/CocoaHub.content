@@ -1,0 +1,16 @@
+{
+    "edition": 70,
+    "title": "Understanding the differences between your Core Data model and managed objects",
+    "url": "https://www.donnywals.com/understanding-the-differences-between-your-core-data-model-and-managed-objects/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}

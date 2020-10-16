@@ -1,0 +1,16 @@
+{
+    "edition": 70,
+    "title": "Try Catch Throw: Error Handling in Swift with Code Examples",
+    "url": "https://www.avanderlee.com/swift/try-catch-throw-error-handling/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

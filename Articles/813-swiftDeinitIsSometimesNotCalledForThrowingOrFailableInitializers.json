@@ -1,0 +1,16 @@
+{
+    "edition": 70,
+    "title": "Swift deinit is (sometimes) not called for throwing or failable initializers",
+    "url": "https://www.jessesquires.com/blog/2020/10/08/swift-deinit-is-not-called-for-failable-initializers/",
+    "author": {
+        "name": "Jesse Squires",
+        "url": "https://twitter.com/jesse_squires"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

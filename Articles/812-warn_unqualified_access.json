@@ -1,0 +1,16 @@
+{
+    "edition": 70,
+    "title": "@warn_unqualified_access",
+    "url": "https://fivestars.blog/swift/warn_unqualified_access.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}
