@@ -1,0 +1,16 @@
+{
+    "edition": 71,
+    "title": "Handling loading states within SwiftUI views",
+    "url": "https://www.swiftbysundell.com/articles/handling-loading-states-in-swiftui/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

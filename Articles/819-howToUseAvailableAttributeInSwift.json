@@ -1,0 +1,16 @@
+{
+    "edition": 71,
+    "title": "How to use the #available attribute in Swift",
+    "url": "https://www.avanderlee.com/swift/available-deprecated-renamed/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

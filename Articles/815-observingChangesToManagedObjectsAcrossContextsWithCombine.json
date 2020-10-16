@@ -1,0 +1,16 @@
+{
+    "edition": 71,
+    "title": "Observing changes to managed objects across contexts with Combine",
+    "url": "https://www.donnywals.com/observing-changes-to-managed-objects-across-contexts-with-combine/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "storage"
+    ]
+}
