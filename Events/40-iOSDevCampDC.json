@@ -1,0 +1,12 @@
+{
+    "name": "iOSDevCampDC",
+    "url": "https://iosdevcampdc.com",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FiosDevCampDC.png?alt=media&token=2457d373-1a00-49b9-8576-d6de93183524",
+    "startDate": "2020-10-30T08:00:00+0000",
+    "endDate": "2020-10-30T20:00:00+0000",
+    "tags": [
+        "remote",
+        "tickets"
+    ],
+    "isActive": true,
+}

@@ -1,0 +1,12 @@
+{
+    "name": "NSSpain 2020 Remote Edition",
+    "url": "https://remote.nsspain.com",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FnsSpain2020.jpg?alt=media&token=a095d985-f542-44e9-9636-155d9109f3ab",
+    "startDate": "2020-11-19T08:00:00+0000",
+    "endDate": "2020-11-20T20:00:00+0000",
+    "tags": [
+        "remote",
+        "tickets"
+    ],
+    "isActive": true,
+}

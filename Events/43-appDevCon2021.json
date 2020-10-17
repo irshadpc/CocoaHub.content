@@ -1,0 +1,17 @@
+{
+    "name": "Appdevcon",
+    "url": "https://appdevcon.nl",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FappDevCon.png?alt=media&token=904de15e-8b6d-4522-ba76-c211bb65efd2",
+    "startDate": "2021-03-15T08:00:00+0000",
+    "endDate": "2021-03-18T20:00:00+0000",
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "tags": [
+      "tickets"
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 52.366477,
+        "longitude": 4.894113
+    }
+}
