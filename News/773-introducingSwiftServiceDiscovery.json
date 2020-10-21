@@ -1,0 +1,12 @@
+{
+    "title" : "Introducing Swift Service Discovery",
+    "description" : "Swift Service Discovery is a new open source project designed to  ”establish a standard API that can be implemented by various service discovery backends such as DNS-based, key-value store, etc”.",
+    "url" : "https://swift.org/blog/swift-service-discovery/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
