@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 84: “Key paths, functions and closures“",
+    "description" : "Listen to John Sundell and his special guest, Vincent Pradeillesg, talk about various ways to use Swift language features like key paths and closures, how they relate to patterns used within functional programming, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/84",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
