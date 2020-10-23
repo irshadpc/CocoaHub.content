@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0289: Result Builders has been accepted",
+    "description" : "“The overall feedback from both rounds of reviews seemed positive on the functionality, but raised concerns over the attribute naming. The renamed attribute was better received, and the Core Team has decided to move forward with the new name.“",
+    "url" : "https://forums.swift.org/t/accepted-se-0289-result-builders/41377",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
