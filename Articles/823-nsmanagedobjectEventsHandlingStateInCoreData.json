@@ -1,0 +1,16 @@
+{
+    "edition": 72,
+    "title": "NSManagedObject events: handling state in Core Data",
+    "url": "https://www.avanderlee.com/swift/nsmanagedobject-awakefrominsert-preparefordeletion/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}
