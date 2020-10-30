@@ -1,0 +1,12 @@
+{
+    "title" : "iOS 14.2 Release Candidate is now available",
+    "description" : "Apple replaces the term “GM seed“ with “Release Candidate“ and releases iPadOS 14.2 Release Candidate and Xcode 12.1.1 Release Candidate. You can also start submitting apps built with this latest Xcode version using the latest SDKs for iOS.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
