@@ -1,0 +1,12 @@
+{
+    "title" : "Swift Concurrency Roadmap",
+    "description" : "Ben Cohen shares a high-level overview of Swift's roadmap to make concurrent programming convenient, efficient and safe.",
+    "url" : "https://forums.swift.org/t/swift-concurrency-roadmap/41611",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
