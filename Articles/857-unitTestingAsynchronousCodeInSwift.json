@@ -1,0 +1,16 @@
+{
+    "edition": 73,
+    "title": "Unit Testing Asynchronous Code in Swift",
+    "url": "https://www.vadimbulavin.com/unit-testing-async-code-in-swift/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "tags": [
+        "testing"
+    ]
+}

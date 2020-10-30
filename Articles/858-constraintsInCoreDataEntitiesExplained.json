@@ -1,0 +1,16 @@
+{
+    "edition": 73,
+    "title": "Constraints in Core Data Entities explained",
+    "url": "https://www.avanderlee.com/swift/constraints-core-data-entities/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "storage"
+    ]
+}

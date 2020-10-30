@@ -1,0 +1,16 @@
+{
+    "edition": 73,
+    "title": "Keeping expansion state of OutlineDisclosures using NSDiffableDataSource SectionSnapshot on UICollectionView DiffableDatasource",
+    "url": "https://crsantos.info/uicollectionviewdiffabledatasource-outline/",
+    "author": {
+        "name": "Carlos Santos",
+        "url": "https://twitter.com/crsantos"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 73,
+    "title": "Getting Started with Core Data and CloudKit",
+    "url": "https://www.raywenderlich.com/13219461-getting-started-with-core-data-and-cloudkit",
+    "author": {
+        "name": "Saeed Taheri",
+        "url": "https://twitter.com/saeed_taheri"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}
