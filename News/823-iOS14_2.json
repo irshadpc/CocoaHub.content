@@ -1,0 +1,12 @@
+{
+    "title" : "iOS 14.2 is now available",
+    "description" : "Apple also releases iPadOS 14.2, tvOS 14.2, iPadOS 12.4.9, iOS 12.4.9, macOS Big Sur 11.0.1 Release Candidate and Xcode 12.2 Release Candidate.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
