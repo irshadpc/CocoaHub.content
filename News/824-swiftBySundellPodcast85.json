@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 85: “Cross-Apple platform development“",
+    "description" : "Listen to John Sundell and his special guest, James Thomson, talk about how developers can bring their apps to multiple Apple platforms, how and when it can be a good idea to share code across platforms, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/85",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
