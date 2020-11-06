@@ -1,0 +1,16 @@
+{
+    "edition": 74,
+    "title": "Derived Attributes to improve Core Data Fetch Performance",
+    "url": "https://www.raywenderlich.com/12258400-xcode-server-for-ios-getting-started",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "storage"
+    ]
+}

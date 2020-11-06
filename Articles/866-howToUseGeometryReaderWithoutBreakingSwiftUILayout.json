@@ -1,0 +1,16 @@
+{
+    "edition": 74,
+    "title": "How to use GeometryReader without breaking SwiftUI layout",
+    "url": "https://swiftwithmajid.com/2020/11/04/how-to-use-geometryreader-without-breaking-swiftui-layout/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

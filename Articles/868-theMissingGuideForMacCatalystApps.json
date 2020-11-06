@@ -1,0 +1,17 @@
+{
+    "edition": 74,
+    "title": "The Missing Guide for Mac Catalyst Apps",
+    "url": "https://www.craft.do/maccatalyst-guide",
+    "author": {
+        "name": "Craft",
+        "url": "https://twitter.com/craftdocsapp"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui",
+        "other"
+    ]
+}

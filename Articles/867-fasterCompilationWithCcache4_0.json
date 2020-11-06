@@ -1,0 +1,16 @@
+{
+    "edition": 74,
+    "title": "Faster Compilation with Ccache 4.0",
+    "url": "https://pspdfkit.com/blog/2020/faster-compilation-with-ccache/",
+    "author": {
+        "name": "Peter Steinberger",
+        "url": "https://twitter.com/steipete"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

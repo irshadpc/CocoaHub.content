@@ -1,0 +1,16 @@
+{
+    "edition": 74,
+    "title": "Formatting numbers in Swift",
+    "url": "https://www.swiftbysundell.com/articles/formatting-numbers-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
