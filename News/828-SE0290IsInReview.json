@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0290: Unavailability Condition",
+    "description" : "Bruno Rocha suggests adding #unavailable for checking whether a specific platform/symbol is not available. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0290-unavailability-condition/41873",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
