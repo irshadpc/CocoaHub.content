@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0291: Package Collections",
+    "description" : "Boris Bügling, Yim Lee and Tom Doron propose adding support for Package Collections to SwiftPM. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0291-package-collections/41905",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
