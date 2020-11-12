@@ -1,0 +1,12 @@
+{
+    "title" : "Apple releases TestFlight 3",
+    "description" : "“Testers can now turn on automatic updates so the latest available beta build installs automatically. This update also includes stability improvements and bug fixes.“",
+    "url" : "https://developer.apple.com/news/releases/?id=11112020",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
