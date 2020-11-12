@@ -1,0 +1,12 @@
+{
+    "title" : "macOS Big Sur 11.0.1 is now available",
+    "description" : "Apple also releases Xcode 12.2.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
