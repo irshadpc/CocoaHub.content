@@ -1,0 +1,12 @@
+{
+    "title" : "iOS 14.3 beta is now available",
+    "description" : "Apple also releases the first betas for iPadOS 14.3, tvOS 14.3, watchOS 7.2, and Xcode 12.3.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
