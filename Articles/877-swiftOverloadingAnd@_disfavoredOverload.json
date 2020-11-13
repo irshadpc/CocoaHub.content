@@ -1,0 +1,16 @@
+{
+    "edition": 75,
+    "title": "Swift overloading and @_disfavoredOverload",
+    "url": "https://fivestars.blog/swift/disfavoredOverload.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "language"
+    ]
+}

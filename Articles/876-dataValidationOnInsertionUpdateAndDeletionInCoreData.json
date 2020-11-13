@@ -1,0 +1,16 @@
+{
+    "edition": 75,
+    "title": "Data validation on insertion, update, and deletion in Core Data",
+    "url": "https://www.avanderlee.com/core-data/data-validation/",
+    "author": {
+        "name": "Antoine v. d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "storage"
+    ]
+}

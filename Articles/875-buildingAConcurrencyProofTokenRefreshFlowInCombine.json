@@ -1,0 +1,16 @@
+{
+    "edition": 75,
+    "title": "Building a concurrency-proof token refresh flow in Combine",
+    "url": "https://www.donnywals.com/building-a-concurrency-proof-token-refresh-flow-in-combine/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/donnywals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

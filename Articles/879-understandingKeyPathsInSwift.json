@@ -1,0 +1,16 @@
+{
+    "edition": 75,
+    "title": "Understanding KeyPaths in Swift",
+    "url": "https://www.andyibanez.com/posts/understanding-keypaths-swift/",
+    "author": {
+        "name": "Andy Ibanez",
+        "url": "https://twitter.com/AndyIbanezK"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

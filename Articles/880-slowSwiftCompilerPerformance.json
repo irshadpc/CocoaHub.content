@@ -1,0 +1,16 @@
+{
+    "edition": 75,
+    "title": "Slow Swift Compiler Performance",
+    "url": "https://useyourloaf.com/blog/slow-swift-compiler-performance/",
+    "author": {
+        "name": "Keith Harrison",
+        "url": "https://twitter.com/kharrison"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "tipsAndTricks"
+    ]
+}
