@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 86: “Map is a design pattern“",
+    "description" : "Listen to John Sundell and his special guest, Daniel Steinberg, talk about how functional programming patterns can be adopted in Swift, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/86",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
