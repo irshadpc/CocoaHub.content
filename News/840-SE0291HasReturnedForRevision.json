@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0291: Package Collections has returned for revision",
+    "description" : "“The core team felt the proposal should be amended to explicitly call out if the data format is part of the feature specification or not, and provide reasoning for its inclusion or exclusion.“",
+    "url" : "https://forums.swift.org/t/se-0291-package-collections/41905",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
