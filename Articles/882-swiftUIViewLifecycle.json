@@ -1,0 +1,16 @@
+{
+    "edition": 76,
+    "title": "SwiftUI View Lifecycle",
+    "url": "https://www.vadimbulavin.com/swiftui-view-lifecycle/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

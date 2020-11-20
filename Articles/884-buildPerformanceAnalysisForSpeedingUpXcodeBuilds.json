@@ -1,0 +1,16 @@
+{
+    "edition": 76,
+    "title": "Build performance analysis for speeding up Xcode builds",
+    "url": "https://www.avanderlee.com/optimization/analysing-build-performance-xcode/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}
