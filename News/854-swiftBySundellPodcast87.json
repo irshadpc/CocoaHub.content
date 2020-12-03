@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 87: “The SwiftUI layout system“",
+    "description" : "Listen to John Sundell and his special guest, Chris Eidhof, talk about the SwiftUI layout system, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/87",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
