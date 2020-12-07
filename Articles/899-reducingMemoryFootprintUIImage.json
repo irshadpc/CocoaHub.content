@@ -1,0 +1,16 @@
+{
+    "edition": 78,
+    "title": "Reducing Memory Footprint When Using UIImage",
+    "url": "https://swiftsenpai.com/development/reduce-uiimage-memory-footprint/",
+    "author": {
+        "name": "Lee Kah Seng",
+        "url": "https://twitter.com/Lee_Kah_Seng"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}

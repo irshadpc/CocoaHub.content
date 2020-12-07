@@ -1,0 +1,16 @@
+{
+    "edition": 78,
+    "title": "Testing the UI without UI Testing in Swift",
+    "url": "https://masilotti.com/testing-ui-without-ui-testing/",
+    "author": {
+        "name": "Joe Masilotti",
+        "url": "https://twitter.com/joemasilotti"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}
