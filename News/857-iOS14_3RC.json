@@ -1,0 +1,12 @@
+{
+    "title" : "iOS 14.3 RC is now available",
+    "description" : "Apple also releases iPadOS 14.3 RC, tvOS 14.3 RC, watchOS 7.2 RC and Xcode 12.3 RC.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
