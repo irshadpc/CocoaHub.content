@@ -1,0 +1,16 @@
+{
+    "edition": 79,
+    "title": "The lifecycle and semantics of a SwiftUI view",
+    "url": "https://www.swiftbysundell.com/articles/the-lifecycle-and-semantics-of-a-swiftui-view/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}
