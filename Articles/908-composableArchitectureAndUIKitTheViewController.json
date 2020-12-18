@@ -1,0 +1,16 @@
+{
+    "edition": 80,
+    "title": "Composable Architecture and UIKit: The View Controller",
+    "url": "https://www.iamsim.me/composable-architecture-and-uikit-the-view-controller/",
+    "author": {
+        "name": "Simon Ljungberg",
+        "url": "https://twitter.com/simmelj"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture",
+    ]
+}

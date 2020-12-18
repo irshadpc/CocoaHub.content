@@ -1,0 +1,16 @@
+{
+    "edition": 80,
+    "title": "An alternative to SwiftUI's stacks + Spacer combo",
+    "url": "https://fivestars.blog/swiftui/stack-spacer-alternatives.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui",
+    ]
+}

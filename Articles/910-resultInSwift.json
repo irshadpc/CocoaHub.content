@@ -1,0 +1,16 @@
+{
+    "edition": 80,
+    "title": "Result in Swift: Getting started with Code Examples",
+    "url": "https://www.avanderlee.com/swift/result-enum-type/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language",
+    ]
+}

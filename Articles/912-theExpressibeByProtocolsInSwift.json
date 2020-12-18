@@ -1,0 +1,16 @@
+{
+    "edition": 80,
+    "title": "The “ExpressibleBy-“ Protocols in Swift",
+    "url": "https://tanaschita.com/posts/20201214-working-with-bits-in-swift/",
+    "author": {
+        "name": "Andy Ibanez",
+        "url": "https://twitter.com/AndyIbanezK"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
