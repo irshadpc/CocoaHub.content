@@ -1,0 +1,16 @@
+{
+    "edition": 81,
+    "title": "Understanding @inlinable in Swift",
+    "url": "https://swiftrocks.com/understanding-inlinable-in-swift.html",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Mohammed Lazim",
+        "url": "https://twitter.com/m25lazi"
+    },
+    "tags": [
+        "language"
+    ]
+}

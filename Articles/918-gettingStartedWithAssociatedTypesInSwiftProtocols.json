@@ -1,0 +1,16 @@
+{
+    "edition": 81,
+    "title": "Getting started with associated types in Swift Protocols",
+    "url": "https://www.avanderlee.com/swift/associated-types-protocols/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

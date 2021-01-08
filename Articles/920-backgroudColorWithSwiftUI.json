@@ -1,0 +1,16 @@
+{
+    "edition": 81,
+    "title": "Background Color with SwiftUI",
+    "url": "https://kristaps.me/blog/background-swiftui/",
+    "author": {
+        "name": "Kristaps Grinbergs",
+        "url": "https://twitter.com/fassko"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

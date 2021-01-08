@@ -1,0 +1,16 @@
+{
+    "edition": 81,
+    "title": "The different types of self in Swift",
+    "url": "https://www.jessesquires.com/blog/2020/12/28/the-different-types-of-self-in-swift/",
+    "author": {
+        "name": "Jesse Squires",
+        "url": "https://twitter.com/jesse_squires"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

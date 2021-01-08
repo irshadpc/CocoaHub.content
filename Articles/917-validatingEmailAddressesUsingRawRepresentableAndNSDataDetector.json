@@ -1,0 +1,16 @@
+{
+    "edition": 81,
+    "title": "Validating email addresses using RawRepresentable and NSDataDetector",
+    "url": "https://www.swiftbysundell.com/articles/validating-email-addresses/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
