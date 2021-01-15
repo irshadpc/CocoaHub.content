@@ -1,0 +1,16 @@
+{
+    "edition": 82,
+    "title": "Introduction to structured concurrency in Swift: continuations, tasks, and cancellation",
+    "url": "https://desiatov.com/swift-structured-concurrency-introduction/",
+    "author": {
+        "name": "Max Desiatov",
+        "url": "https://twitter.com/maxdesiatov"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}
