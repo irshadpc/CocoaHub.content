@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 89: “Framework and SDK development“",
+    "description" : "Listen to John Sundell and his special guest, Ellen Shapiro, talk about SDK development, API Design, GraphQL, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/89",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
