@@ -1,0 +1,16 @@
+{
+    "edition": 83,
+    "title": "SwiftUI patterns: @Bindings",
+    "url": "https://www.fivestars.blog/swiftui/swiftui-patterns-bindings.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

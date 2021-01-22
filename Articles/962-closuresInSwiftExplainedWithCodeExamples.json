@@ -1,0 +1,16 @@
+{
+    "edition": 83,
+    "title": "Closures in Swift explained with Code Examples",
+    "url": "https://www.avanderlee.com/swift/trailing-escaping-closures/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

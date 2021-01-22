@@ -1,0 +1,16 @@
+{
+    "edition": 83,
+    "title": "Accessing a Swift property wrapper’s enclosing instance",
+    "url": "https://www.swiftbysundell.com/articles/accessing-a-swift-property-wrappers-enclosing-instance/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
