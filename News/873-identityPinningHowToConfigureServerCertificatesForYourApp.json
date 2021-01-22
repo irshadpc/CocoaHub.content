@@ -1,0 +1,12 @@
+{
+    "title" : "Identity Pinning: How to configure server certificates for your app",
+    "description" : "“When you connect through TLS, the server provides a certificate or certificate chain to establish its identity. You can further limit the set of server certificates your app trusts by pinning their public-key identities in your app.“",
+    "url" : "https://developer.apple.com/news/?id=g9ejcf8y",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
