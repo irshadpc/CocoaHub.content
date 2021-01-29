@@ -1,0 +1,12 @@
+{
+    "title" : "Swift Weekly Brief 177",
+    "description" : "“We encourage you to verify your app’s implementation of AppTrackingTransparency as soon as possible. Without the user’s permission, you will not be allowed to track them and the device’s advertising identifier value will be all zeros.“",
+    "url" : "https://developer.apple.com/news/?id=8rm6injj",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "newsletter"
+    ]
+}
