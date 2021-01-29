@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 90: “The essence of app architecture“",
+    "description" : "Listen to John Sundell and his special guest, Matt Gallagher, talk about how the introduction of SwiftUI and Combine has impacted architecural decisions, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/90",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
