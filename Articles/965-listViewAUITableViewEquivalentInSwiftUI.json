@@ -1,0 +1,16 @@
+{
+    "edition": 84,
+    "title": "List view, a UITableView equivalent in SwiftUI",
+    "url": "https://sarunw.com/posts/list-view-uitableview-equivalent-in-swiftui/",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

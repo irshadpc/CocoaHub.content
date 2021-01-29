@@ -1,0 +1,16 @@
+{
+    "edition": 84,
+    "title": "Lazy var in Swift explained with code examples",
+    "url": "https://www.avanderlee.com/swift/lazy-var-property/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 84,
+    "title": "5 Steps to Better SwiftUI Views",
+    "url": "https://www.hackingwithswift.com/articles/226/5-steps-to-better-swiftui-views",
+    "author": {
+        "name": "Paul Hudson",
+        "url": "https://twitter.com/twostraws"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

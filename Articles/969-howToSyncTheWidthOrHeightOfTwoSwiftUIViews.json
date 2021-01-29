@@ -1,0 +1,16 @@
+{
+    "edition": 84,
+    "title": "How to sync the width or height of two SwiftUI views?",
+    "url": "https://swiftbysundell.com/questions/syncing-the-width-or-height-of-two-swiftui-views/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

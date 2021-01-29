@@ -1,0 +1,16 @@
+{
+    "edition": 84,
+    "title": "Callable Objects and callAsFunction() in Swift",
+    "url": "https://www.vadimbulavin.com/call-as-function-in-swift/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
