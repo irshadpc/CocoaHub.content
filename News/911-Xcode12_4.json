@@ -1,0 +1,12 @@
+{
+    "title" : "Xcode 12.4 is now available",
+    "description" : "Apple also releases iOS 14.4, iPadOS 14.4, tvOS 14.4, watchOS 7.3 and macOS Big Sur 11.2 RC 3.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
