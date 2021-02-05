@@ -1,0 +1,12 @@
+{
+  "url" : "https://www.whatsnewinswift.com/?from=5.3&to=5.4",
+  "title" : "What’s new in Swift 5.4?",
+  "description" : "Paul Hudson gathers what's coming with Swift 5.4 and even includes an interactive Xcode playground for you to try it out.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}
