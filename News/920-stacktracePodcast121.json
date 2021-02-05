@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 121: “Debug-driven development”",
+    "description" : "John Sundell and Gui Rambo talk about some of the key features that are being introduced in iOS 14.5 and Xcode 12.5, debugging workflows, and more.",
+    "url" : "https://9to5mac.com/2021/02/03/stacktrace-podcast-121-debug-driven-development/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
