@@ -1,0 +1,16 @@
+{
+    "edition": 85,
+    "title": "A SwiftUI custom alert using ViewModifiers and transitions",
+    "url": "https://www.lukecsmith.co.uk/2021/02/03/a-swiftui-custom-alert-using-viewmodifiers-and-transitions/",
+    "author": {
+        "name": "Luke Smith",
+        "url": "https://www.linkedin.com/in/luke-smith-6b7b6a12/"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

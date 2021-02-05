@@ -1,0 +1,16 @@
+{
+    "edition": 85,
+    "title": "nil-null-mess in Objective-C and Swift",
+    "url": "https://www.andyibanez.com/posts/nil-null-mess-objective-c-and-swift/",
+    "author": {
+        "name": "Andy Ibanez",
+        "url": "https://twitter.com/AndyIbanezK"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

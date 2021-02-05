@@ -1,0 +1,16 @@
+{
+    "edition": 85,
+    "title": "XCTExpectFailure: Expected test failures explained with code examples",
+    "url": "https://www.avanderlee.com/swift/xctexpectfailure-expected-failures/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

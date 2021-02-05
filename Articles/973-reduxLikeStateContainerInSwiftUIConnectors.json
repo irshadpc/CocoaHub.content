@@ -1,0 +1,16 @@
+{
+    "edition": 85,
+    "title": "Redux-like state container in SwiftUI: Connectors.",
+    "url": "https://swiftwithmajid.com/2021/02/03/redux-like-state-container-in-swiftui-part4/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

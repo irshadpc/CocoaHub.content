@@ -1,0 +1,16 @@
+{
+    "edition": 85,
+    "title": "Creating a webcam utility app for macOS in SwiftUI",
+    "url": "https://benoitpasquier.com/webcam-utility-app-macos-swiftui/",
+    "author": {
+        "name": "Benoit Pasquier",
+        "url": "https://twitter.com/BenoitPasquier_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}
