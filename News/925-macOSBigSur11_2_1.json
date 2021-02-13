@@ -1,0 +1,12 @@
+{
+    "title" : "Apple releases macOS Big Sur 11.2.1",
+    "description" : "This update fixes a security bug that allowed local attackers to be able to elevate their privileges.",
+    "url" : "https://developer.apple.com/news/releases/?id=02092021a",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
