@@ -1,0 +1,17 @@
+{
+    "edition": 86,
+    "title": "XCTest tips and tricks that can level up your Swift testing",
+    "url": "https://masilotti.com/xctest-tips-and-tricks/",
+    "author": {
+        "name": "Joe Masilotti",
+        "url": "https://twitter.com/joemasilotti"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing",
+        "tipsAndTricks"
+    ]
+}

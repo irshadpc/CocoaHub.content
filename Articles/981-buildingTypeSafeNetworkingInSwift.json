@@ -1,0 +1,16 @@
+{
+    "edition": 86,
+    "title": "Building type-safe networking in Swift",
+    "url": "https://swiftwithmajid.com/2021/02/10/building-type-safe-networking-in-swift/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Mohammed Lazim",
+        "url": "https://twitter.com/m25lazi"
+    },
+    "tags": [
+        "other"
+    ]
+}

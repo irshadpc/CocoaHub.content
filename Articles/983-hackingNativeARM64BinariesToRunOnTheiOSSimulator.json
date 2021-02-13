@@ -1,0 +1,16 @@
+{
+    "edition": 86,
+    "title": "Hacking native ARM64 binaries to run on the iOS Simulator",
+    "url": "https://bogo.wtf/arm64-to-sim.html",
+    "author": {
+        "name": "Bogo Giertler",
+        "url": "https://twitter.com/giertler"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

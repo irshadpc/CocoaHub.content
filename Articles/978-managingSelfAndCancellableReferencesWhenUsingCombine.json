@@ -1,0 +1,16 @@
+{
+    "edition": 86,
+    "title": "Managing self and cancellable references when using Combine",
+    "url": "https://www.swiftbysundell.com/articles/combine-self-cancellable-memory-management/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}
