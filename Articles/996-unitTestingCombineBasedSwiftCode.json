@@ -1,0 +1,16 @@
+{
+    "edition": 87,
+    "title": "Unit testing Combine-based Swift code",
+    "url": "https://www.swiftbysundell.com/articles/unit-testing-combine-based-swift-code/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

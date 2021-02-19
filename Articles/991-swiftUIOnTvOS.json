@@ -1,0 +1,17 @@
+{
+    "edition": 87,
+    "title": "SwiftUI on tvOS",
+    "url": "https://www.raywenderlich.com/19074315-swiftui-on-tvos",
+    "author": {
+        "name": "Jordan Osterberg",
+        "url": "https://twitter.com/OsterbergJordan"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui",
+        "other"
+    ]
+}

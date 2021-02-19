@@ -1,0 +1,16 @@
+{
+    "edition": 87,
+    "title": "Using async/await in SwiftUI",
+    "url": "https://peterfriese.dev/async-await-in-swiftui/",
+    "author": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "curator": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "tags": [
+        "language"
+    ]
+}

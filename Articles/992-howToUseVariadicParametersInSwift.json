@@ -1,0 +1,16 @@
+{
+    "edition": 87,
+    "title": "How to use Variadic parameters in Swift",
+    "url": "https://www.avanderlee.com/swift/variadic-parameters/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

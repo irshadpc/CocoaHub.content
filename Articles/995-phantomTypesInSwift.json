@@ -1,0 +1,16 @@
+{
+    "edition": 87,
+    "title": "Phantom Types in Swift",
+    "url": "https://swiftwithmajid.com/2021/02/18/phantom-types-in-swift/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

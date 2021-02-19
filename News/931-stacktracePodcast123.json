@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 123: “Swift++”",
+    "description" : "John Sundell and Gui Rambo talk about various ways of making Swift interact with C++ code, Swift for TensorFlow, and more.",
+    "url" : "https://9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "edition": 87,
+    "title": "Graying out images in Cocoa",
+    "url": "https://www.avanderlee.com/swift/variadic-parameters/",
+    "author": {
+        "name": "Igor Kulman",
+        "url": "https://twitter.com/igorkulman"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "tipsAndTricks",
+        "ui"
+    ]
+}
