@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 124: “All of that Macness”",
+    "description" : "John Sundell and Gui Rambo talk about App Clip analytics, building macOS apps using SwiftUI, and more.",
+    "url" : "https://9to5mac.com/2021/02/24/stacktrace-podcast-124-all-of-that-macness/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
