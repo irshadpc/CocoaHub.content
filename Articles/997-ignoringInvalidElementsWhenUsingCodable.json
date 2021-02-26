@@ -1,0 +1,16 @@
+{
+    "edition": 88,
+    "title": "Ignoring invalid JSON elements when using Codable",
+    "url": "https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

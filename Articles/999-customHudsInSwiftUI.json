@@ -1,0 +1,16 @@
+{
+    "edition": 88,
+    "title": "Custom HUDs in SwiftUI",
+    "url": "https://www.fivestars.blog/swiftui/swiftui-hud.html",
+    "author": {
+        "name": "Federico Zanatello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}
