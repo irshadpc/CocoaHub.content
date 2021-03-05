@@ -1,0 +1,16 @@
+{
+    "edition": 89,
+    "title": "Be careful with Obj-C bridging in Swift",
+    "url": "https://swiftrocks.com/be-careful-with-objc-bridging-in-swift",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 89,
+    "title": "Quick tips on embracing @ViewBuilder",
+    "url": "https://www.andyibanez.com/posts/what-i-learned-from-selling-an-app/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 89,
+    "title": "Using self, weak, and unowned in Combine",
+    "url": "https://trycombine.com/posts/self-weak-unowned/",
+    "author": {
+        "name": "Marin Todorov",
+        "url": "https://twitter.com/icanzilb"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
