@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 125: “Build pipelines, not spiderwebs”",
+    "description" : "John Sundell and Gui Rambo talk about localizing an indie app, the stability of SwiftUI previews, and more.",
+    "url" : "https://9to5mac.com/2021/03/03/stacktrace-podcast-125-build-pipelines-not-spiderwebs/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
