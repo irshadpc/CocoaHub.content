@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 92: “All of our wildest Swift dreams“",
+    "description" : "Listen to John Sundell and his special guest, Kaitlin Mahar, talk about the current state of server-side Swift, designing APIs for server-side libraries, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/92",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
