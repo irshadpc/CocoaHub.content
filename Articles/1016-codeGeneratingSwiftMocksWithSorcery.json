@@ -1,0 +1,17 @@
+{
+    "edition": 90,
+    "title": "Code Generating Swift Mocks with Sourcery",
+    "url": "https://www.vadimbulavin.com/mocking-in-swift-using-sourcery/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing",
+        "other"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 90,
+    "title": "How to use @autoclosure in Swift to improve performance",
+    "url": "https://www.avanderlee.com/swift/autoclosure/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

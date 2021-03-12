@@ -1,0 +1,16 @@
+{
+    "edition": 90,
+    "title": "App-wide state in SwiftUI",
+    "url": "https://www.fivestars.blog/swiftui/app-state.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 90,
+    "title": "Better Dictionary literals with Result Builders",
+    "url": "https://alejandromp.com/blog/better-dictionary-literals-with-swift-result-builders/",
+    "author": {
+        "name": "Alejandro Martinez",
+        "url": "https://twitter.com/alexito4"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "edition": 90,
+    "title": "Mastering SwiftUI previews",
+    "url": "https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui",
+        "debugging"
+    ]
+}
