@@ -1,0 +1,12 @@
+{
+    "title" : "iOS 14.4.1 is now available",
+    "description" : "Apple also releases iPadOS 14.4.1, watchOS 7.3.2 and macOS Big Sur 11.2.3.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
