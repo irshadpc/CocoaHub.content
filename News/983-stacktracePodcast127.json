@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 127: “Apple's spring cleaning”",
+    "description" : "John Sundell and Gui Rambo talk about optimizing the performance of SwiftUI views, mixing client work with indie development, and more.",
+    "url" : "https://9to5mac.com/2021/03/17/stacktrace-podcast-127-apples-spring-cleaning/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
