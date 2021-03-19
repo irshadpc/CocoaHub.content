@@ -1,0 +1,12 @@
+{
+    "title" : "Trojanized Xcode project targeting Apple developers found in the wild",
+    "description" : "”A new backdoor threat has been discovered that aims to compromise Apple developers’ Macs with a trojanized Xcode project. This malware can record victims’ microphone, camera, keyboard, and also upload/download files.”",
+    "url" : "https://9to5mac.com/2021/03/18/trojanized-xcode-project-targets-apple-developers/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "press"
+    ]
+}
