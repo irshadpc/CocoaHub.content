@@ -1,0 +1,16 @@
+{
+    "edition": 91,
+    "title": "Unsafe memory pointers in Swift",
+    "url": "https://theswiftdev.com/unsafe-memory-pointers-in-swift/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

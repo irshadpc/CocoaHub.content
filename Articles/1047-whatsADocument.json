@@ -1,0 +1,16 @@
+{
+    "edition": 91,
+    "title": "What's a Document",
+    "url": "https://kean.blog/post/pulse-store",
+    "author": {
+        "name": "Alex Grebenyuk",
+        "url": "https://twitter.com/a_grebenyuk"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}

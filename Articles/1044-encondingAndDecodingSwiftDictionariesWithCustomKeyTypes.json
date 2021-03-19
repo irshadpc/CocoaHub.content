@@ -1,0 +1,16 @@
+{
+    "edition": 91,
+    "title": "Encoding and decoding Swift dictionaries with custom key types",
+    "url": "https://www.fivestars.blog/swift/codable-swift-dictionaries.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 91,
+    "title": "Dependency Injection for Property Wrappers",
+    "url": "https://otbivnoe.ru/2021/03/13/Dependency-Injection-for-Property-Wrappers.html",
+    "author": {
+        "name": "Nikita Ermolenko",
+        "url": "https://twitter.com/iOtbivnoe"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
