@@ -1,0 +1,13 @@
+{
+    "title" : "SE-0307: Allow interchangeable use of CGFloat and Double types",
+    "description" : "Pavel Yaskevich proposes extending “the language and allow Double and CGFloat types to be used interchangeably by means of transparently converting one type into the other as a sort of retroactive typealias between these two types“. What do you think?",
+    "url" : "https://forums.swift.org/t/45756",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
+
