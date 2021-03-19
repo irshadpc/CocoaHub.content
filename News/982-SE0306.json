@@ -1,0 +1,13 @@
+{
+    "title" : "SE-0307: Actors",
+    "description" : "John McCall, Doug Gregor, Konrad Malawski and Chris Lattner propose introducing actors into Swift. What do you think?",
+    "url" : "https://forums.swift.org/t/45734",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
+
