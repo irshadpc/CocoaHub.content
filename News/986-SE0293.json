@@ -1,0 +1,13 @@
+{
+    "title" : "SE-0293: Extend Property Wrappers to Function and Closure Parameters",
+    "description" : "After returning for revision in order to address feedback, SE-0293 is now up for a third review. What do you think?",
+    "url" : "https://forums.swift.org/t/46827",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
+
