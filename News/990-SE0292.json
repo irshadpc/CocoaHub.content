@@ -1,0 +1,13 @@
+{
+    "title" : "SE-0292: Package Registry Service",
+    "description" : "After returning for revision in order to address feedback, SE-0292 is now up for a second review. What do you think?",
+    "url" : "https://forums.swift.org/t/46917",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
+
