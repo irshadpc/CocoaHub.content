@@ -1,0 +1,16 @@
+{
+    "edition": 92,
+    "title": "UI Testing using Page Object pattern in Swift",
+    "url": "https://swiftwithmajid.com/2021/03/24/ui-testing-using-page-object-pattern-in-swift/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "testing"
+    ]
+}

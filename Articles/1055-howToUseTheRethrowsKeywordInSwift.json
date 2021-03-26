@@ -1,0 +1,16 @@
+{
+    "edition": 92,
+    "title": "How to use the rethrows keyword in Swift",
+    "url": "https://www.avanderlee.com/swift/rethrows/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 92,
+    "title": "Mapping Firestore Data in Swift",
+    "url": "https://peterfriese.dev/firestore-codable-the-comprehensive-guide/",
+    "author": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "curator": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "tags": [
+        "other"
+    ]
+}
