@@ -1,0 +1,13 @@
+{
+    "title" : "Xcode Tips - a website with a bunch of tips",
+    "description" : "“Folks in the Apple developer community are always sharing great Xcode tips — usually via Twitter or blog posts. Wouldn’t it be nice if we collected them all in a single place to share?“",
+    "url" : "https://xcode-tips.github.io",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
+
