@@ -1,0 +1,13 @@
+{
+    "title" : "App Store now rejecting apps using third-party SDKs that collect user data without consent",
+    "description" : "“Per a number of developers, Apple has begun rejecting app updates that include the Adjust SDK related to its collection of data used for device fingerprinting.“",
+    "url" : "https://9to5mac.com/2021/04/01/app-store-now-rejecting-apps-using-third-party-sdks-that-collect-user-data-without-consent/#more-709131",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "press"
+    ]
+}
+
