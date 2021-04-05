@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 129: “Dependencies gone wild”",
+    "description" : "John Sundell and Gui Rambo talk about SwiftUI animations, AirPower, WWDC21, and more.",
+    "url" : "https://9to5mac.com/2021/03/31/stacktrace-podcast-129-dependencies-gone-wild/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
