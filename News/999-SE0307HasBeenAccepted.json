@@ -1,0 +1,13 @@
+{
+    "title" : "SE-0307: Allow interchangeable use of CGFloat and Double types has been accepted",
+    "description" : "“The Core Team believes the narrowly defined implicit type conversion, as described in SE-0307, addresses a long-standing impedance between Swift code and a platform type — CGFloat — whose inception long predates Swift.“",
+    "url" : "https://forums.swift.org/t/47074",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
+
