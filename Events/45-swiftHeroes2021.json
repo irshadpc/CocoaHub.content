@@ -1,0 +1,12 @@
+{
+    "name": "Swift Heroes",
+    "url": "https://swiftheroes.com/2021",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FswiftHeroes.jpg?alt=media&token=52ead1dd-72bf-4158-8aa7-eacd456b2020",
+    "startDate": "2021-04-16T12:00:00+0000",
+    "endDate": "2021-04-16T23:00:00+0000",
+    "country": null,
+    "city": null,
+    "tags": ["remote", "tickets"],
+    "isActive": false,
+    "coordinates": null
+}
