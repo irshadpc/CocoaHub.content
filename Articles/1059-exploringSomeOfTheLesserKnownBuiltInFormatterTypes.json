@@ -1,0 +1,16 @@
+{
+    "edition": 93,
+    "title": "Exploring some of the lesser-known, built-in Formatter types",
+    "url": "https://www.swiftbysundell.com/articles/exploring-some-of-the-lesser-known-formatter-types/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

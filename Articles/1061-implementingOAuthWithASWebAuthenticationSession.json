@@ -1,0 +1,16 @@
+{
+    "edition": 93,
+    "title": "Implementing OAuth with ASWebAuthenticationSession",
+    "url": "https://www.raywenderlich.com/19364429-implementing-oauth-with-aswebauthenticationsession",
+    "author": {
+        "name": "Felipe Laso-Marsetti",
+        "url": "https://twitter.com/iFeliLM"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}
