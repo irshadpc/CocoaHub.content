@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 94: “A Mac-like Mac app“",
+    "description" : "Listen to John Sundell and his special guest, Benedikt Terhechte , talk about Catalyst and SwiftUI to build Mac App, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/94",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
