@@ -1,0 +1,17 @@
+{
+    "edition": 94,
+    "title": "Creating a licensing system for paid apps in Swift",
+    "url": "https://swiftrocks.com/creating-a-license-system-for-paid-apps-in-swift",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other",
+        "security"
+    ]
+}

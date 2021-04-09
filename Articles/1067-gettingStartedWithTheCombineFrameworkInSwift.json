@@ -1,0 +1,16 @@
+{
+    "edition": 94,
+    "title": "Getting started with the Combine framework in Swift",
+    "url": "https://www.avanderlee.com/swift/combine/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}

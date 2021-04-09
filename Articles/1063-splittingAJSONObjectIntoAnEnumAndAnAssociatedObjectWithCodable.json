@@ -1,0 +1,16 @@
+{
+    "edition": 94,
+    "title": "Splitting a JSON object into an enum and an associated object with Codable",
+    "url": "https://www.donnywals.com/splitting-a-json-object-into-an-enum-and-an-associated-object-with-codable/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/donnywals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

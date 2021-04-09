@@ -1,0 +1,17 @@
+{
+    "edition": 94,
+    "title": "Core Data and SwiftUI",
+    "url": "https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/",
+    "author": {
+        "name": "Dave DeLong",
+        "url": "https://twitter.com/davedelong"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui",
+        "storage"
+    ]
+}
