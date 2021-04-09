@@ -1,0 +1,12 @@
+{
+    "title" : "Introducing Swift Collections",
+    "description" : "Karoy Lorentey announces Swift Collections, a “new open-source package focused on extending the set of available Swift data structures“.",
+    "url" : "https://swift.org/blog/swift-collections/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
