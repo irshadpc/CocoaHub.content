@@ -1,0 +1,12 @@
+{
+    "title" : "Get ready for AppTrackingTransparency",
+    "description" : "“With the upcoming public release, all apps must use the AppTrackingTransparency framework to request the user's permission to track them or to access their device's advertising identifier.“",
+    "url" : "https://developer.apple.com/news/?id=8h0btjq7",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
