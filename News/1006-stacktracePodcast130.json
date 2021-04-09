@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 130: “A comedian with code”",
+    "description" : "John Sundell and Gui Rambo talk about Kara Swisher's recent interview with Tim Cook, Apple's upcoming App Tracking Transparency initiative, classic vs modern UIKit, and more.",
+    "url" : "https://9to5mac.com/2021/04/07/stacktrace-podcast-130-a-comedian-with-code/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
