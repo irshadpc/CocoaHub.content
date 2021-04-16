@@ -1,0 +1,13 @@
+{
+    "title" : "SE-0310: Effectful Read-Only Properties",
+    "description" : "Kavon Farvardin proposes allowing computed properties and subscripts to take full advantage of async with effectful read-only properties. What do you think?",
+    "url" : "https://forums.swift.org/t/47401",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
+
