@@ -1,0 +1,17 @@
+{
+    "edition": 95,
+    "title": "Accessibility actions in SwiftUI",
+    "url": "https://swiftwithmajid.com/2021/04/15/accessibility-actions-in-swiftui/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "accessibility",
+        "ui"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 95,
+    "title": "How to create a Conditional View Modifier in SwiftUI",
+    "url": "https://www.avanderlee.com/swiftui/conditional-view-modifier/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 95,
+    "title": "How to resize an image view to fit a container view in SwiftUI",
+    "url": "https://sarunw.com/posts/how-to-resize-an-image-to-fit-a-container-view-in-swiftui/",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

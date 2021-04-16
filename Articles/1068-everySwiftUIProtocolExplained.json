@@ -1,0 +1,16 @@
+{
+    "edition": 95,
+    "title": "Every SwiftUI protocol explained",
+    "url": "https://www.fivestars.blog/articles/swiftui-protocols/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

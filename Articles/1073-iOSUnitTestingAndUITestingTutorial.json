@@ -1,0 +1,16 @@
+{
+    "edition": 95,
+    "title": "iOS Unit Testing and UI Testing Tutorial",
+    "url": "https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial",
+    "author": {
+        "name": "David Piper",
+        "url": "https://twitter.com/HeyDaveTheDev"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}
