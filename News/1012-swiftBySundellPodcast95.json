@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 95: “Concurrency orchestration“",
+    "description" : "Listen to John Sundell and his special guest, Brent Simmons, talk about multi-threading, concurrency, Grand Central Dispatch, senior developers, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/95",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
