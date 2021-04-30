@@ -1,0 +1,12 @@
+{
+    "title" : "Swift 5.4 is now officially released",
+    "description" : "This release contains a variety of language and tooling improvements such as support for multiple variadic parameters in functions, subscripts and initializers, property wrappers for local variables, and more!",
+    "url" : "https://swift.org/blog/swift-5-4-released/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
