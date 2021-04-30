@@ -1,0 +1,12 @@
+{
+    "title" : "iOS 14.5 is now available",
+    "description" : "Apple also releases iPadOS 14.5, tvOS 14.5, watchOS 7.4, macOS Big Sur 11.3 and Xcode 12.5.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
