@@ -1,0 +1,16 @@
+{
+    "edition": 96,
+    "title": "Using SwiftUI’s frame modifier to resize and align views",
+    "url": "https://www.swiftbysundell.com/articles/swiftui-frame-modifier/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

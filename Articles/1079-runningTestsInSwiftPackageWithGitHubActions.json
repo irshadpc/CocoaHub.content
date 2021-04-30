@@ -1,0 +1,17 @@
+{
+    "edition": 96,
+    "title": "Running tests in Swift package with GitHub actions",
+    "url": "https://augmentedcode.io/2021/04/26/running-tests-in-swift-package-with-github-actions/",
+    "author": {
+        "name": "Toomas Vahter",
+        "url": "https://twitter.com/toomasvahter"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing",
+        "tooling"
+    ]
+}

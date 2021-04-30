@@ -1,0 +1,16 @@
+{
+    "edition": 96,
+    "title": "How to design type safe RESTful APIs using Swift & Vapor?",
+    "url": "https://theswiftdev.com/how-to-design-type-safe-restful-apis-using-swift-and-vapor/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "server"
+    ]
+}

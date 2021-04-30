@@ -1,0 +1,16 @@
+{
+    "edition": 96,
+    "title": "Collapsible UICollectionView Sections",
+    "url": "https://www.swiftjectivec.com/collapsable-collectionview/",
+    "author": {
+        "name": "Jordan Morgan",
+        "url": "https://twitter.com/JordanMorgan10"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 96,
+    "title": "Building custom Combine operators in Swift",
+    "url": "https://swiftwithmajid.com/2021/04/28/building-custom-combine-operators-in-swift/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}

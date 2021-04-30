@@ -1,0 +1,16 @@
+{
+    "edition": 96,
+    "title": "What's new in Swift Package Manager in Swift 5.4",
+    "url": "https://www.fivestars.blog/articles/spm-5-4/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

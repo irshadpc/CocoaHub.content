@@ -1,0 +1,16 @@
+{
+    "edition": 96,
+    "title": "SwiftUI In Production",
+    "url": "https://pspdfkit.com/blog/2021/swiftui-in-production/",
+    "author": {
+        "name": "Peter Steinberger",
+        "url": "https://twitter.com/steipete"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}
