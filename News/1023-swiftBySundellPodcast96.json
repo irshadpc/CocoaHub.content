@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 96: “Gesture-driven animations“",
+    "description" : "Listen to John Sundell and his special guest, Adam Bell, talk about custom, gesture-driven animation logic and the sort of performance optimizations that are typically required when writing that sort of code, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/96",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
