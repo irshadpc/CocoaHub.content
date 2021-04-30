@@ -1,0 +1,12 @@
+{
+    "title" : "CocoaPods Trunk: Remote Code Execution found",
+    "description" : "“We've not been able to prove that anyone has used this method before Max's report today. However, just because it hasn't been proved, doesn't mean it hasn't happened. 6 years is a long time.“",
+    "url" : "https://blog.cocoapods.org/CocoaPods-Trunk-RCE/",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "community"
+    ]
+}
