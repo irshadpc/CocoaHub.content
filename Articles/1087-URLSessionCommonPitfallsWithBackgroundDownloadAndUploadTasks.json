@@ -1,0 +1,16 @@
+{
+    "edition": 97,
+    "title": "URLSession: Common pitfalls with background download & upload tasks",
+    "url": "https://www.avanderlee.com/swift/urlsession-common-pitfalls-with-background-download-upload-tasks/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}

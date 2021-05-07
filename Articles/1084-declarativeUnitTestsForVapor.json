@@ -1,0 +1,17 @@
+{
+    "edition": 97,
+    "title": "Declarative unit tests for Vapor",
+    "url": "https://theswiftdev.com/declarative-unit-tests-for-vapor/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "server",
+        "testing"
+    ]
+}
