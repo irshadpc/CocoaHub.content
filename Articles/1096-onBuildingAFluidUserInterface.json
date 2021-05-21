@@ -1,0 +1,17 @@
+{
+    "edition": 98,
+    "title": "On Building a Fluid User Interface",
+    "url": "https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface",
+    "author": {
+        "name": "Rishi Mody",
+        "url": "https://twitter.com/instagrameng"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "design",
+        "ui"
+    ]
+}
