@@ -1,0 +1,16 @@
+{
+    "edition": 98,
+    "title": "Three ways to render a SwiftUI view in a playground",
+    "url": "https://www.swiftbysundell.com/tips/rendering-a-swiftui-view-in-a-playground/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

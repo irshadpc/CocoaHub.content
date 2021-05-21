@@ -1,0 +1,16 @@
+{
+    "edition": 98,
+    "title": "Fileprivate vs private in Swift: The differences explained",
+    "url": "https://www.avanderlee.com/swift/fileprivate-private-differences-explained/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

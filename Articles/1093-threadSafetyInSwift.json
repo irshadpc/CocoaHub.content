@@ -1,0 +1,16 @@
+{
+    "edition": 98,
+    "title": "Thread Safety in Swift",
+    "url": "https://swiftrocks.com/thread-safety-in-swift",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}
