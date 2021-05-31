@@ -1,0 +1,16 @@
+{
+    "edition": 99,
+    "title": "What's new in Swift 5.5?",
+    "url": "https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5",
+    "author": {
+        "name": "Paul Hudson",
+        "url": "https://twitter.com/twostraws"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

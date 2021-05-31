@@ -1,0 +1,16 @@
+{
+    "edition": 99,
+    "title": "Avoiding problematic cases when using Swift enums",
+    "url": "https://swiftbysundell.com/articles/avoiding-problematic-enum-cases-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/swiftbysundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
