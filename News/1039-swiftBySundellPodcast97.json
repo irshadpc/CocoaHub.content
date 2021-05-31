@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 97: “Anything can happen during WWDC“",
+    "description" : "Listen to John Sundell and his special guest, Ish ShaBazz, talk about what new APIs and developer tools that Apple might announce at this year's WWDC, how might UIKit and SwiftUI continue to evolve, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/97",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
