@@ -1,0 +1,16 @@
+{
+    "edition": 100,
+    "title": "Why Should You Care about Manual Testing?",
+    "url": "https://pspdfkit.com/blog/2021/pragmatic-manual-testing/",
+    "author": {
+        "name": "Tomas Surin",
+        "url": "https://twitter.com/tomassurin"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

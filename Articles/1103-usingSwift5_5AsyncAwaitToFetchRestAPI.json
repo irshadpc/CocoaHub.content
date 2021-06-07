@@ -1,0 +1,16 @@
+{
+    "edition": 100,
+    "title": "Using Swift 5.5 Async Await to Fetch REST API",
+    "url": "https://www.alfianlosari.com/posts/using-swift-5-5-async-await-to-fetch-rest-api/",
+    "author": {
+        "name": "Alfian Losari",
+        "url": "https://twitter.com/alfianlosari"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

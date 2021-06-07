@@ -1,0 +1,16 @@
+{
+    "edition": 100,
+    "title": "Building Your App Using Build Configurations and .xcconfig",
+    "url": "https://www.raywenderlich.com/21441177-building-your-app-using-build-configurations-and-xcconfig",
+    "author": {
+        "name": "Saleh Albuga",
+        "url": "https://twitter.com/SalehAlshami"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}
