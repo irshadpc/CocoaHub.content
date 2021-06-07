@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 98: “An entire spectrum of apps“",
+    "description" : "Listen to John Sundell and his special guest, Sean Allen, talk about using the MVVM design pattern within SwiftUI-based apps, building a course around MapKit and CloudKit, how to approach all of the new material that WWDC has to offer, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/98",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
