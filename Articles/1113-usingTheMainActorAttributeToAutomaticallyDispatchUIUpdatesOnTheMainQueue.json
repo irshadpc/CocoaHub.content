@@ -1,0 +1,16 @@
+{
+    "edition": 101,
+    "title": "Using the MainActor attribute to automatically dispatch UI updates on the main queue",
+    "url": "https://swiftbysundell.com/articles/the-main-actor-attribute/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/swiftbysundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

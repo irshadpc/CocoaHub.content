@@ -1,0 +1,16 @@
+{
+    "edition": 101,
+    "title": "Automatic conversions between Double and CGFloat values in Swift 5.5",
+    "url": "https://swiftbysundell.com/tips/double-cgfloat-auto-conversions/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/swiftbysundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

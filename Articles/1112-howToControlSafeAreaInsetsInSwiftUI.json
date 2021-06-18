@@ -1,0 +1,16 @@
+{
+    "edition": 101,
+    "title": "How to control safe area insets in SwiftUI",
+    "url": "https://www.fivestars.blog/articles/safe-area-insets/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

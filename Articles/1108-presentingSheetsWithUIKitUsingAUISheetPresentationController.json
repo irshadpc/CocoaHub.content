@@ -1,0 +1,16 @@
+{
+    "edition": 101,
+    "title": "Presenting sheets with UIKit using a UISheetPresentationController",
+    "url": "https://www.avanderlee.com/swift/presenting-sheets-uikit-uisheetpresentationcontroller/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

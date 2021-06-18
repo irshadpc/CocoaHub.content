@@ -1,0 +1,16 @@
+{
+    "edition": 101,
+    "title": "Understanding async/await in Swift",
+    "url": "https://www.andyibanez.com/posts/understanding-async-await-in-swift/",
+    "author": {
+        "name": "Andy Ibanez",
+        "url": "https://twitter.com/AndyIbanezK"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

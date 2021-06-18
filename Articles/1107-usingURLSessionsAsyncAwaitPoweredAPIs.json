@@ -1,0 +1,16 @@
+{
+    "edition": 101,
+    "title": "Using URLSession’s async/await-powered APIs",
+    "url": "https://wwdcbysundell.com/2021/using-async-await-with-urlsession/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/swiftbysundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
