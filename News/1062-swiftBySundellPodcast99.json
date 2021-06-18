@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 99: “Structured concurrency“",
+    "description" : "Listen to John Sundell and his special guest, Doug Gregor, talk about how features like async/away and actor work under the hood, how were those concepts adapted in order to feel right at home within Swift, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/99",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}

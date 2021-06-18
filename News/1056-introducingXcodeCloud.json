@@ -1,0 +1,12 @@
+{
+    "title" : "Introducing Xcode Cloud",
+    "description" : "“Xcode Cloud is a continuous integration and delivery service built into Xcode and designed expressly for Apple developers.”",
+    "url" : "https://developer.apple.com/news/?id=uno5w59d",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}

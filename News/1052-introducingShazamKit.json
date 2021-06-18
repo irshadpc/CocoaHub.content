@@ -1,0 +1,12 @@
+{
+    "title" : "Introducing ShazamKit",
+    "description" : "“Enrich your app experience with audio recognition. Now you can match music to the millions of songs in Shazam's vast catalog or make any prerecorded audio recognizable by building your own custom catalog using audio from video, podcasts, and more.”",
+    "url" : "https://developer.apple.com/news/?id=s0s8up0f",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
