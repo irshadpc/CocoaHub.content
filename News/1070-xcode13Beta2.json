@@ -1,0 +1,12 @@
+{
+    "title" : "Xcode 12.5.1 is now available",
+    "description" : "Apple also releases the second developer beta for tvOS 15, watchOS 8, and macOS Monterey.",
+    "url" : "https://developer.apple.com/news/releases/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}

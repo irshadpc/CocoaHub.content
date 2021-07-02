@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 142: “The Sideloading Cartel”",
+    "description" : "John Sundell and Gui Rambo discuss what could happen if Apple were to enable sideloading on iOS, connecting Combine with async/await, using design tools, and more!",
+    "url" : "https://9to5mac.com/2021/06/30/stacktrace-podcast-142-the-sideloading-cartel/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
