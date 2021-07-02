@@ -1,0 +1,16 @@
+{
+    "edition": 102,
+    "title": "SwiftUI patterns evolution: view builders",
+    "url": "https://www.fivestars.blog/articles/swiftui-patterns-view-builders/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 102,
+    "title": "Dismissing a SwiftUI modal or detail view",
+    "url": "https://swiftbysundell.com/articles/dismissing-swiftui-modal-and-detail-views/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/swiftbysundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

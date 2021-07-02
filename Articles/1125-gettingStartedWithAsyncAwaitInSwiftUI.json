@@ -1,0 +1,17 @@
+{
+    "edition": 102,
+    "title": "Getting Started with async/await in SwiftUI",
+    "url": "https://peterfriese.dev/swiftui-concurrency-essentials-part1/#the-sample-app",
+    "author": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "curator": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "tags": [
+        "ui",
+        "language"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 102,
+    "title": "Actors in Swift: how to use and prevent data races",
+    "url": "https://www.avanderlee.com/swift/actors/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

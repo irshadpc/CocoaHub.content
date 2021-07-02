@@ -1,0 +1,16 @@
+{
+    "edition": 102,
+    "title": "Advanced SwiftUI Animations — Part 4: TimelineView",
+    "url": "https://swiftui-lab.com/swiftui-animations-part4/",
+    "author": {
+        "name": "Javier",
+        "url": "https://twitter.com/SwiftUILab"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}
