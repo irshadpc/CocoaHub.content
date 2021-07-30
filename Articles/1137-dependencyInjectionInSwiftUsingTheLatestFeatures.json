@@ -1,0 +1,16 @@
+{
+    "edition": 103,
+    "title": "Dependency Injection in Swift using latest Swift features",
+    "url": "https://www.avanderlee.com/swift/dependency-injection/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

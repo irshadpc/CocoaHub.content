@@ -1,0 +1,16 @@
+{
+    "edition": 103,
+    "title": "How to add SectionIndexTitles in SwiftUI",
+    "url": "https://www.fivestars.blog/articles/section-title-index-swiftui/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

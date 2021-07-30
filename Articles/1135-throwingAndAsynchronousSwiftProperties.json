@@ -1,0 +1,16 @@
+{
+    "edition": 103,
+    "title": "Throwing and asynchronous Swift properties",
+    "url": "https://swiftbysundell.com/articles/throwing-async-properties/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/swiftbysundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

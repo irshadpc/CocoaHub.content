@@ -1,0 +1,17 @@
+{
+    "edition": 103,
+    "title": "Benchmarking Swift Code Properly with Attabench",
+    "url": "https://swiftrocks.com/benchmarking-swift-code-properly-with-attabench",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling",
+        "other"
+    ]
+}
