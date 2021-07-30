@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 100: “A tower of capabilities“",
+    "description" : "Listen to John Sundell and his special guest, Chris Lattner, talk about Swift's new concurrency features, the ongoing evolution of the language, the importance of both language and API design, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/100",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}

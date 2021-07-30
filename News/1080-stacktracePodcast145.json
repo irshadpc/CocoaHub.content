@@ -1,0 +1,12 @@
+{
+    "title" : "Stacktrace Podcast 146: “Working code is better than good-looking code”",
+    "description" : "John Sundell and Gui Rambo talk about some of the most recent Apple hardware rumors, how John and Rambo use unit testing to verify their code, and more!",
+    "url" : "https://9to5mac.com/2021/07/21/stacktrace-podcast-145-working-code-is-better-than-good-looking-code/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}

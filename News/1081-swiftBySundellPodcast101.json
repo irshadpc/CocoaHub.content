@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 101: “Cross-platform SwiftUI“",
+    "description" : "Listen to John Sundell and her special guest, Malin Sundberg, talk about what sort of things can be good to keep in mind when using SwiftUI, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/101",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
