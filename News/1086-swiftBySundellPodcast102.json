@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 102: “WWDC21, two months later“",
+    "description" : "Listen to John Sundell and his special guest, Jordan Morgan, talk about some of the key new APIs and frameworks that were announced at WWDC21, how they can be integrated into the apps that we build, and much more.",
+    "url" : "https://www.swiftbysundell.com/podcast/102",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
