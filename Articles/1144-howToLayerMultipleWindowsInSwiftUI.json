@@ -1,0 +1,16 @@
+{
+    "edition": 104,
+    "title": "How to layer multiple windows in SwiftUI",
+    "url": "https://www.fivestars.blog/articles/swiftui-windows/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

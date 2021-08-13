@@ -1,0 +1,16 @@
+{
+    "edition": 104,
+    "title": "Adding Intelligent Code Generation to Swift Projects with SourceKit",
+    "url": "https://swiftrocks.com/code-generation-with-sourcekit",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

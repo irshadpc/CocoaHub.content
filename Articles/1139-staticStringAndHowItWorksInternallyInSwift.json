@@ -1,0 +1,16 @@
+{
+    "edition": 104,
+    "title": "StaticString, and how it works internally in Swift",
+    "url": "https://swiftrocks.com/staticstring-in-swift",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

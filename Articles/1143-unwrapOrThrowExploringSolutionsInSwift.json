@@ -1,0 +1,16 @@
+{
+    "edition": 104,
+    "title": "Unwrap or throw: Exploring solutions in Swift",
+    "url": "https://www.avanderlee.com/swift/unwrap-or-throw/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
