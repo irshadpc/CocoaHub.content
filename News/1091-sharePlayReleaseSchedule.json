@@ -1,0 +1,12 @@
+{
+    "title" : "SharePlay release schedule update",
+    "description" : "SharePlay has been disabled for use in the developer beta 6 versions of iOS 15, iPadOS 15, tvOS 15, and macOS Monterey. It will be enabled for use again in future developer beta releases and will launch to the public in software updates later this fall.",
+    "url" : "https://developer.apple.com/news/?id=mxaeu6er",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}

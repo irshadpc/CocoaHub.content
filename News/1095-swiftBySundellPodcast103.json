@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 103: “What’s new in Swift 5.5“",
+    "description" : "Listen to John Sundell and his special guest, Antoine van der Lee, talk about the new language features that are being introduced as part of Swift 5.5.",
+    "url" : "https://www.swiftbysundell.com/podcast/103",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
