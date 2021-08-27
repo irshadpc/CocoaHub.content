@@ -1,0 +1,16 @@
+{
+    "edition": 105,
+    "title": "Handling links with SwiftUI's openURL",
+    "url": "https://www.fivestars.blog/articles/openurl-openurlaction/",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "tags": [
+        "ui"
+    ]
+}

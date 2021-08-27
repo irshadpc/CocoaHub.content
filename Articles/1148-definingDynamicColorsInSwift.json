@@ -1,0 +1,16 @@
+{
+    "edition": 105,
+    "title": "Defining dynamic colors in Swift",
+    "url": "https://swiftbysundell.com/articles/defining-dynamic-colors-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

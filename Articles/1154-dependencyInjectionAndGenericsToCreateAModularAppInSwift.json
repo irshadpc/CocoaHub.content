@@ -1,0 +1,16 @@
+{
+    "edition": 105,
+    "title": "Dependency injection and Generics to create a modular app in Swift",
+    "url": "https://benoitpasquier.com/modular-app-dependency-injection-generics-swift/",
+    "author": {
+        "name": "Benoit Pasquier",
+        "url": "https://twitter.com/BenoitPasquier_"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture"
+    ]
+}
